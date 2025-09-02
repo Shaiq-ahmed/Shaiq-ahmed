@@ -6,9 +6,9 @@
 
 I'm **Shaiq Ahmed**, a passionate **Full-Stack Developer** specializing in the **MERN stack**! I love crafting robust web applications and creating clean, efficient code. Here's a glimpse of what I do:
 
-- **Backend**: Building robust solutions with Node.js and Express 🖥️
-- **Databases**: Designing efficient databases using MongoDB 🗂️
-- **Frontend**: Creating responsive interfaces with React 📱
+- **Backend**: Building robust solutions with Node.js,Express and Nest 🖥️
+- **Databases**: Designing efficient databases using MongoDB, PostgreSQL, MYSQL and Redis 🗂️
+- **Frontend**: Creating responsive interfaces with React and Next 📱
 
 I am currently working on a web app for user authentication and authorization and am open to collaborations and feedback! 💬
 
