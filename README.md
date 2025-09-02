@@ -1,6 +1,6 @@
 # 🌟 **Shaiq Ahmed's GitHub Profile** 🌟
 
-[![Coding Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+[![Coding Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh2b3VsdzhpdzBmandsbWFsNWRicGFnb3Zpc2k4MTJmOWV6bml4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif)
 
 ## 👋 About Me
 
