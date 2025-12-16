@@ -55,7 +55,9 @@ I utilize a broad, high-demand technical stack to ensure project success across 
 I am currently developing a secure, scalable web application focusing on advanced user **authentication and authorization**. I'm always open to feedback, collaboration, and discussion on modern architecture patterns!
 
 <p align="center">
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=000000)](https://shaiq-ahmed-portfolio.netlify.app/)
+  <a href="https://shaiq-ahmed-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-4B0082?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Link">
+  </a>
 </p>
 
 ---
