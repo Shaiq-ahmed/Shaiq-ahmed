@@ -143,16 +143,9 @@ const shaiq = {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shaiq-ahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiq-ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&langs_count=8" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaiq-ahmed&theme=tokyo-night&hide_border=true&bg_color=0f172a&area=true" alt="Contribution graph" width="100%" />
-
-</div>
+> Public case studies are coming soon. In the meantime, see my work on my [portfolio](https://shaiq-ahmed-portfolio.netlify.app/).
 
 ---
 
